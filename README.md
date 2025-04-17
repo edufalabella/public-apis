@@ -1,20 +1,6 @@
 # Try Public APIs for free
 The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.
 
-<br >
-
-<p>
-    <a href="https://apilayer.com">
-        <div>
-            <img src=".github/cs1586-APILayerLogoUpdate2022-LJ_v2-HighRes.png" width="100%" alt="APILayer Logo" />
-        </div>
-    </a>
-  </p>
-
-[APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) is the fastest way to integrate APIs into any product. There are a lot of APIs available at [APILayer Marketplace](https://apilayer.com/#bestSellers&utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo).
-
-<br >
-
 ## APILayer APIs
 | API | Description | Call this API |
 |:---|:---|:---|
